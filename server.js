@@ -70,5 +70,3 @@ Criar Nossa API de usuario
 - Editar um usuario
 - Deleter um usuario
 */
-
-// username : vhgsa12 passowrd: vh120404
